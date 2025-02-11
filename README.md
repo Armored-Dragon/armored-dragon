@@ -7,4 +7,4 @@ This is the home of my automated tools, security applications, and what ever els
 I unfortunetly do not have many social media platforms. The social media accounts that I do control do not get used in any meaningful amount.<br>
 If you would like to know more about me, visit my website!
 
-https://armoreddragon.com
+https://adragon.dev
