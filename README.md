@@ -1,6 +1,6 @@
 # Hai, I'm Armored Dragon!
 
-A professional goober with a love for learning and a strong focus on user experience in software. Free time is often spent exploring security topics and tinkering with bleeding-edge hardware and software. I firmly believe in the motto: "Nothing is perfect.".
+A professional goober with a love for learning and a strong focus on user experience in software. Free time is often spent exploring security topics and tinkering with bleeding-edge hardware and software.
 Beyond programming, my interests span across 3D modeling and animation, 2D illustration, video writing and production, and much more. Check out my website to learn more! https://adragon.dev
 
 ![RSS Badge](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
